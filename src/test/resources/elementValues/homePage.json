@@ -1,0 +1,79 @@
+[
+  {
+    "key": "fromInput",
+    "value": "//*[@id=\"headlessui-tabs-panel-:ri:\"]/div/div/form/div/div[2]/div[1]/div[1]/div/div[1]/div[1]/div[2]/div[1]/label",
+    "type": "xpath"
+  },
+  {
+    "key": "tikla",
+    "value": "fromFlight",
+    "type": "id"
+  },
+  {
+    "key": "toWhereInput",
+    "value": "input[data-testid=endesign-flight-destination-autosuggestion-input]",
+    "type": "css"
+  },
+  {
+    "key": "roundTrip",
+    "value": "div[data-testid=search-round-trip-text]",
+    "type": "css"
+  },
+  {
+    "key": "ucuzBiletBulButton",
+    "value": "button[data-testid=enuygun-homepage-flight-submitButton]",
+    "type": "css"
+  },
+  {
+    "key": "sawSelect",
+    "value": "div[data-testid=autosuggestion-custom-item-istanbul-sabiha-gokcen-havalimani-city-country]",
+    "type": "css"
+  },
+  {
+    "key": "esbSelect",
+    "value": "div[data-testid=autosuggestion-custom-item-ankara-esenboga-havalimani-city-country]",
+    "type": "css"
+  },
+  {
+    "key": "listBody",
+    "value": "div[class=\"search-result-body\"]",
+    "type": "css"
+  },
+  {
+    "key": "departureDateInput",
+    "value": "input[data-testid=\"enuygun-homepage-flight-departureDate-datepicker-input\"]",
+    "type": "css"
+  },
+  {
+    "key": "returnDateInput",
+    "value": "div[data-testid=\"enuygun-homepage-flight-returnDate-label\"]",
+    "type": "css"
+  },
+  {
+    "key": "departureAndArrivalTimesButton",
+    "value": "div[class=\"ctx-filter-departure-return-time card-header\"]",
+    "type": "css"
+  },
+  {
+    "key": "yolcuSayisiSecimButton",
+    "value": "input[data-testid=\"undefined-popover-button\"]",
+    "type": "css"
+  },
+  {
+    "key": "adultButton",
+    "value": "button[data-testid=\"flight-adult-counter-plus-button\"]",
+    "type": "css"
+  },
+  {
+    "key": "childButton",
+    "value": "button[data-testid=\"flight-child-counter-plus-button\"]",
+    "type": "css"
+  },
+  {
+    "key": "babyButton",
+    "value": "button[data-testid=\"flight-infant-counter-plus-button\"]",
+    "type": "css"
+  }
+
+
+]

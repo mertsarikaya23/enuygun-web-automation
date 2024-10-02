@@ -1,0 +1,51 @@
+[
+
+  {
+    "key": "listBody",
+    "value": "div[class=\"search-result-body\"]",
+    "type": "css"
+  },
+  {
+    "key": "departureDateInput",
+    "value": "input[data-testid=\"enuygun-homepage-flight-departureDate-datepicker-input\"]",
+    "type": "css"
+  },
+  {
+    "key": "returnDateInput",
+    "value": "div[data-testid=\"enuygun-homepage-flight-returnDate-label\"]",
+    "type": "css"
+  },
+  {
+    "key": "departureAndArrivalTimesButton",
+    "value": "div[class=\"ctx-filter-departure-return-time card-header\"]",
+    "type": "css"
+  },
+  {
+    "key": "afternoonButton",
+    "value": "//*[@id=\"SearchRoot\"]/div[2]/div[1]/div[3]/div[4]/div[2]/div/div[1]/div[3]/p[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "scrollBar",
+    "value": "//*[@id=\"SearchRoot\"]/div[2]/div[1]/div[3]/div[4]/div[2]/div/div[1]/div[2]/div/div[5]",
+    "type": "xpath"
+  },
+
+  {
+    "key": "ajetCheckBox",
+    "value": "//span[text()=\"AJet\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "thyCheckBox",
+    "value": "//span[text()=\"Türk Hava Yolları\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "airlinesButton",
+    "value": "//span[text()=\"Havayolları\"]",
+    "type": "xpath"
+  }
+
+
+]

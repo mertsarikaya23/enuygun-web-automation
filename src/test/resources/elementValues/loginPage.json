@@ -1,0 +1,50 @@
+[
+
+  {
+    "key": "loginOrientationButton",
+    "value": "button[data-testid=\"membership-signin-dialog-open-button\"]",
+    "type": "css"
+  },
+  {
+    "key": "emailInput",
+    "value": "input[data-testid=\"membership-signin-email-input\"]",
+    "type": "css"
+  },
+  {
+    "key": "passwordInput",
+    "value": "input[data-testid=\"membership-signin-password-input\"]",
+    "type": "css"
+  },
+  {
+    "key": "loginButton",
+    "value": "button[data-testid=\"membership-signin-submit-button\"]",
+    "type": "css"
+  },
+  {
+    "key": "closeButtonInLoginPage",
+    "value": "button[data-testid=\"membership-signin-dialog-close-button\"]",
+    "type": "css"
+  },
+  {
+    "key": "loginFrame",
+    "value": "div[data-testid=\"membership-signin-form\"]",
+    "type": "css"
+  },
+  {
+    "key": "loginErrorMessage",
+    "value": "div[data-testid=\"[unnamed]-alert-body\"]",
+    "type": "css"
+  },
+  {
+    "key": "emailTextErrorMessage",
+    "value": "//div[text()=\"Geçerli bir e-posta girmelisin\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "passwordTextErrorMessage",
+    "value": "//div[text()=\"Şifren en az 8 karakterden oluşmalıdır.\"]",
+    "type": "xpath"
+  }
+
+
+]

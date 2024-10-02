@@ -1,0 +1,165 @@
+Created by mertsarikaya on 30.09.2024
+
+# ENUYGUN anasayfasına gidilir
+* "https://www.enuygun.com/" adresine git
+* "2" saniye bekle
+
+# Gidiş Dönüş seçimi yapılır
+* Elementine tıkla "roundTrip"
+
+# Ucuz Bilet Bul Butonuna tıklanır ve Arama yapılır
+* "2" saniye bekle
+* Elementine tıkla "ucuzBiletBulButton"
+* "2" saniye bekle
+
+# Listeleme ekranının açıldığının kontrolü sağlanır
+* "listBody" elementini kontrol et
+
+# gidiş tarihi <TARIH> secilir ve tıklanır
+* Gidiş tarihi seçilir
+* "2" saniye bekle
+* tarih secimi <TARIH> yapılır
+
+# donus tarihi <TARIH> secilir ve tıklanır
+* Dönüş tarihi seçilir
+* "2" saniye bekle
+* tarih secimi <TARIH> yapılır
+
+# Gidiş tarihi seçilir
+* "departureDateInput" elementini kontrol et
+* Elementine tıkla "departureDateInput"
+
+# Dönüş tarihi seçilir
+* "returnDateInput" elementini kontrol et
+* Elementine tıkla "returnDateInput"
+
+# Nereden alanına <NEREDEN>, Nereye alanına <NEREYE> gir
+* <NEREDEN> textini "fromInput" elemente yaz
+* "sawSelect" elementine focus ile tıkla
+* <NEREYE> textini "toWhereInput" elemente yaz
+* "esbSelect" elementine focus ile tıkla
+
+# Gidiş kalkış / varış saatleri filtresine tıklanır
+* "departureAndArrivalTimesButton" elementini kontrol et
+* Elementine tıkla "departureAndArrivalTimesButton"
+* "2" saniye bekle
+
+# Yetişkin sayısı <value> değeri kadar eklenir
+* <value> değeri kadar "adultButton" değerine tıklanır ve yolcu sayısı seçilir
+
+# Çocuk sayısı <value> değeri kadar eklenir
+* <value> değeri kadar "childButton" değerine tıklanır ve yolcu sayısı seçilir
+
+# Bebek sayısı <value> değeri kadar eklenir
+* <value> değeri kadar "babyButton" değerine tıklanır ve yolcu sayısı seçilir
+
+# Yolcu sayısı seçimi butonuna tıklanır
+* "yolcuSayisiSecimButton" elementini kontrol et
+* Elementine tıkla "yolcuSayisiSecimButton"
+
+# Kalıkış saati 10 ile 18 arası olacak şekilde seçilir
+* Elementine tıkla "afternoonButton"
+* Elementine tıkla "scrollBar"
+* "4" saniye bekle
+* elementine scroll yapılır
+* "4" saniye bekle
+
+# Hava yolları filtresi açılır
+* "airlinesButton" elementini kontrol et
+* Elementine tıkla "airlinesButton"
+
+# Ajet hava yolları seçimi yapılır
+* "1" saniye bekle
+* "ajetCheckBox" elementini kontrol et
+* Elementine tıkla "ajetCheckBox"
+* "2" saniye bekle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Anasayfada bulunan Giriş butonunun kontrolü sağlanır
+* "loginOrientationButton" elementini kontrol et
+* Elementine tıkla "loginOrientationButton"
+
+# E-mail adresi girişi yapılır <value>
+* <value> textini "emailInput" elemente yaz
+
+# Şifre girişi yapılır <value>
+* <value> textini "passwordInput" elemente yaz
+
+# Giriş yap butonuna tıklanır
+* "loginButton" elementini kontrol et
+* Elementine tıkla "loginButton"
+
+# Giriş yapılamadığına dair hata mesajının içeriği kontrol edilir
+* "loginErrorMessage" elementini kontrol et
+* "loginErrorMessage" elementi "Lütfen e-posta adresi veya şifreyi kontrol edip yeniden deneyin." değerini içeriyor mu kontrol et
+
+# Email ve Şifre alanlarında bulunan hata mesajı labellarının doğru geldiğinin kontrolü sağlanır
+* "emailTextErrorMessage" elementini kontrol et
+* "emailTextErrorMessage" elementi "Geçerli bir e-posta girmelisin" değerini içeriyor mu kontrol et
+* "passwordTextErrorMessage" elementini kontrol et
+* "passwordTextErrorMessage" elementi "Şifren en az 8 karakterden oluşmalıdır." değerini içeriyor mu kontrol et
+
+
+# Fiyat kontrolü yapılır
+* fiyat kontrolü yapılır
+
+#Saat kontrolü yapılır
+* "3" saniye bekle
+* saat kontrolü yapılır
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
